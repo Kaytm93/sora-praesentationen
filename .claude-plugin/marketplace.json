@@ -1,0 +1,21 @@
+{
+  "name": "kay-sora",
+  "owner": {
+    "name": "Kay"
+  },
+  "metadata": {
+    "description": "Marketplace mit dem SORA-Praesentationen-Plugin (Wochenberichte & Referate, Klasse 11-12)."
+  },
+  "plugins": [
+    {
+      "name": "sora-praesentationen",
+      "source": "./",
+      "description": "Komplette Toolchain fuer SORA-Wochenberichte und Referate: Design-System mit echten Umlauten, PowerPoint-konforme Click-to-Reveal-Animationen, selektive Animations-Granularitaet und Canva-Kompatibilitaet.",
+      "version": "0.3.0",
+      "author": {
+        "name": "Kay"
+      },
+      "keywords": ["sora", "presentation", "pptx", "schule", "wochenbericht", "referat", "politik", "wirtschaft"]
+    }
+  ]
+}
